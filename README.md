@@ -1,6 +1,6 @@
 # Hmmm, some test
 
-![](https://img.shields.io/badge/TS-ES5-blue) ![](https://img.shields.io/badge/graphql-purple)
+![](https://img.shields.io/badge/TS-ES5-blue) ![](https://img.shields.io/badge/@apollo/client-3.3.6-purple)
 
 ---
 
