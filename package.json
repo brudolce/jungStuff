@@ -2,7 +2,7 @@
   "homepage": "http://brudolce.github.io/jungStuff",
   "name": "bruno",
   "version": "0.1.0",
-  "private": true,
+  "private": false,
   "dependencies": {
     "@apollo/client": "^3.3.6",
     "@apollo/react-hooks": "^4.0.0",
