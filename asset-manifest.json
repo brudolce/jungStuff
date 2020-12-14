@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.js": "/static/js/main.6767c857.chunk.js",
-    "main.js.map": "/static/js/main.6767c857.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.7ab8035c.js",
-    "runtime-main.js.map": "/static/js/runtime-main.7ab8035c.js.map",
-    "static/css/2.d34346ea.chunk.css": "/static/css/2.d34346ea.chunk.css",
-    "static/js/2.51c10cce.chunk.js": "/static/js/2.51c10cce.chunk.js",
-    "static/js/2.51c10cce.chunk.js.map": "/static/js/2.51c10cce.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.f683c5ba405b72b2c846252fb9d49778.js": "/precache-manifest.f683c5ba405b72b2c846252fb9d49778.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/2.d34346ea.chunk.css.map": "/static/css/2.d34346ea.chunk.css.map",
-    "static/js/2.51c10cce.chunk.js.LICENSE.txt": "/static/js/2.51c10cce.chunk.js.LICENSE.txt",
-    "static/media/bg1.jpg": "/static/media/bg1.df9b7468.jpg",
-    "static/media/kitchen-tools.svg": "/static/media/kitchen-tools.48df46fc.svg",
-    "static/media/user.svg": "/static/media/user.c32d5bb6.svg"
+    "main.js": "/jungStuff/static/js/main.14884b01.chunk.js",
+    "main.js.map": "/jungStuff/static/js/main.14884b01.chunk.js.map",
+    "runtime-main.js": "/jungStuff/static/js/runtime-main.7a57bd4b.js",
+    "runtime-main.js.map": "/jungStuff/static/js/runtime-main.7a57bd4b.js.map",
+    "static/css/2.d34346ea.chunk.css": "/jungStuff/static/css/2.d34346ea.chunk.css",
+    "static/js/2.0ecc78b2.chunk.js": "/jungStuff/static/js/2.0ecc78b2.chunk.js",
+    "static/js/2.0ecc78b2.chunk.js.map": "/jungStuff/static/js/2.0ecc78b2.chunk.js.map",
+    "index.html": "/jungStuff/index.html",
+    "precache-manifest.42b1c213ffa11bf428b0518439209727.js": "/jungStuff/precache-manifest.42b1c213ffa11bf428b0518439209727.js",
+    "service-worker.js": "/jungStuff/service-worker.js",
+    "static/css/2.d34346ea.chunk.css.map": "/jungStuff/static/css/2.d34346ea.chunk.css.map",
+    "static/js/2.0ecc78b2.chunk.js.LICENSE.txt": "/jungStuff/static/js/2.0ecc78b2.chunk.js.LICENSE.txt",
+    "static/media/bg1.jpg": "/jungStuff/static/media/bg1.df9b7468.jpg",
+    "static/media/kitchen-tools.svg": "/jungStuff/static/media/kitchen-tools.48df46fc.svg",
+    "static/media/user.svg": "/jungStuff/static/media/user.c32d5bb6.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.7ab8035c.js",
+    "static/js/runtime-main.7a57bd4b.js",
     "static/css/2.d34346ea.chunk.css",
-    "static/js/2.51c10cce.chunk.js",
-    "static/js/main.6767c857.chunk.js"
+    "static/js/2.0ecc78b2.chunk.js",
+    "static/js/main.14884b01.chunk.js"
   ]
 }
