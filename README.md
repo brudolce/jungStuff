@@ -1,17 +1,13 @@
-# BVG Helper
+# Hmmm, some test
 
-![](https://img.shields.io/badge/TS-ES5-blue) ![](https://img.shields.io/badge/REDUX-v7.2.1-purple)
-
----
-
-http://bvg-helper.surge.sh/
+![](https://img.shields.io/badge/TS-ES5-blue) ![](https://img.shields.io/badge/graphql-purple)
 
 ---
 
-Hi Jungsof people
+Hi Jungsoft people
 How are you doing my people?
+
+There are two media queries available, beyond 1045px and less than 1044px width. These media queries are emulated taking windows innerWidith propertie, no real media query here, if you change the screen size during the process of navigation you should refresh the page.
+
+I am not a graph master, but the documentation is good.
 https://www.notion.so/Jungsoft-s-Frontend-challenge-bac3bfcd6038482da95cc0e15c75ab18
-
-## https://frontend-challenge.jungsoft.io/graphiql
-
-##
