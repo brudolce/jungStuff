@@ -10,7 +10,7 @@ How are you doing?
 
 There are two media queries available, beyond 1045px and less than 1044px width. These media queries are emulated taking windows innerWidith propertie, no real media query here.
 
-There is no style component, but a Object Oriented Beam in JavaScript injecting CSS into the components, architecture based on JavaFX structure, a Java UI.
+There is no styled component, but a Object Oriented Beam in JavaScript injecting CSS into the components, architecture based on JavaFX structure, a Java UI.
 
 I am not a graphql master, but the documentation is good, so all workng well and as simple as possible.
 
