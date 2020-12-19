@@ -12,7 +12,7 @@ There are two media queries available, beyond 1045px and less than 1044px width.
 
 There is no styled component, but an Object Oriented Beam in TypeScript injecting CSS into the components, architecture based on JavaFX structure, a Java UI.
 
-I am not a graphql master, but the documentation is good, so all workng well and as simple as possible.
+I am not a graphql master, but the documentation is good, so all working well and as simple as possible.
 
 ---
 
